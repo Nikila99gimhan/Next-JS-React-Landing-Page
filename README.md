@@ -2,7 +2,7 @@
 Next js React landing page | Business Website
 
 
-<<<<<<< HEAD
+<<<<<<< HEAD New Branch Edit
 =======
 ## Getting Started
 
